@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# Product Notes
 
-You can use the [editor on GitHub](https://github.com/rahulgulati/productnotes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Distribution
+**[How Microsoft crushed Slack](https://www.theverge.com/22150313/how-microsoft-crushed-slack-salesforce-acquisition)**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*"The reality with the enterprise is that you can have the best product, but that’s not good enough,” Levie told me. “You need distribution. And what Salesforce has — they have the procurement officers, they have the finance people. They have all of the apparatus you need to interact with to sell software, and they have it for the top 100,000 corporations around the world."*
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rahulgulati/productnotes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*“The only advantage Microsoft has is distribution, and so now they’ve neutralized the advantage that Microsoft has had,” he said. “All of a sudden, they can actually fulfill the ultimate promise of the opportunity, because they have 10 times the amount of salespeople that can go distribute this thing into corporations around the world.”*
